@@ -1,4 +1,4 @@
-pyrogram==1.4.16
+pyrogram>=1.4.16,<2.0
 py-tgcalls
 tglogging
 sqlalchemy
@@ -44,7 +44,6 @@ aiohttp==3.8.3
 numpy==1.24.1
 pillow==9.4.0
 psutil
-pyrogram==2.0.99
 py-tgcalls==0.9.7
 python-dotenv==0.21.1
 tgcrypto==1.2.5
