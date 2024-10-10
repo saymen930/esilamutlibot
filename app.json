@@ -23,7 +23,7 @@
       },
       "BOT_TOKEN": {
         "description": "Botfather-dən Bot nişanı",
-        "value": "",
+        "value": "6999080991:AAFm-Sad9EBJuGYA_y8BWLKNyHSMtBmgLeA",
         "required": true
       },
         "OWNER_NAME": {
