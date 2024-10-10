@@ -36,7 +36,7 @@ bs4
 Heroku3
 telegram
 telethon
-git+https://github.com/yt-dlp/yt-dlp
+git+https://github.com/yt-dlp
 
 asyncio==3.4.3
 aiofiles==22.1.0
